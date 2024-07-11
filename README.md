@@ -9,6 +9,3 @@ This repository contains machine learning models and data related to stroke pred
 - **Notebooks**: Jupyter notebooks (*.ipynb) demonstrate data preprocessing, model training, and evaluation.
 - **Models**: Trained machine learning models (logistic regression, random forests) are stored here.
 - **Results**: Summary of model performance metrics and visualizations.
-
-## Contributing
-Contributions are welcome! If you find any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
